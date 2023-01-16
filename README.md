@@ -1,5 +1,5 @@
 # max_clique
-Find the largest subset of people who all follow each other in a social network
+Find the largest subset of people who all follow each other on a social network
 
 Function written by Eleni Christoforidou in MATLAB R2022b.
 
